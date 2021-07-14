@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """ @author Benjamin Morales Jr
-	@description Speed up the process for making Cards Agains Humanity CSV for use in Playingcards.io
+    @date 2020
+    @description Speed up the process for making Cards Agains Humanity CSV for use in Playingcards.io
 		this is not all inclusive, files may require manual editing with Excell, but for well made lists
 		of cards it should work just fine to make the list work with it, and to convert a copy paste from 
 		their add/remove cards for adding new bulk cards, since it doesn't allow downloading their list"""
